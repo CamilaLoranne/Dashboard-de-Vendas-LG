@@ -1,45 +1,72 @@
-# 📊 Dashboard de Vendas LG
+📊 Dashboard de Vendas – LG
 
-Este projeto foi desenvolvido para análise de vendas da LG utilizando o Power BI, com foco em visualização interativa e geração de insights estratégicos.
+Análise completa de desempenho comercial utilizando Power BI
 
-## 🔎 Objetivo
+Este projeto apresenta um painel interativo desenvolvido para analisar vendas da LG, permitindo identificar padrões, comparar resultados e extrair insights estratégicos de forma rápida e visual.
 
-Criar um dashboard dinâmico e intuitivo que permita a análise de indicadores de desempenho de vendas ao longo dos anos, por produto, loja e localização geográfica.
+🎯 Objetivo do Projeto
+Criar um dashboard dinâmico e intuitivo, capaz de responder rapidamente às principais perguntas do negócio, tais como:
 
-## 🧩 Dados analisados
+* Quais produtos geram maior receita?
 
-- Receita total: **R$ 497 Milhões**
-- Quantidade vendida: **69 Mil unidades**
-- Produto com maior receita: **TV (R$ 310,9 Mi)**
-- Loja com maior faturamento: **Casas Bahia (R$ 126 Mi)**
-- Maior ticket médio: **Fast Shop (R$ 18 Mil)**
+* Quais lojas apresentam melhor desempenho?
 
-## 📌 Filtros disponíveis
+* Como as vendas variam entre estados e cidades?
 
-- Ano
-- Loja
-- Estado/Cidade
-- Produto/Modelo
+* Qual a evolução das vendas ao longo do tempo?
 
-## 🌎 Destaques geográficos
+🧩 Principais Resultados
+A análise revelou diversos insights importantes:
 
-- Estados do Sudeste lideram em volume de receita.
-- Representação visual da distribuição de receita no mapa do Brasil.
+* Receita total: R$ 497 milhões
 
-## 📈 Ferramentas Utilizadas
+* Quantidade total vendida: 69 mil unidades
 
-- Power BI
-- DAX (para medidas e cálculos personalizados)
-- Visualizações interativas com gráficos de barras, linhas e mapas
+* Produto com maior receita: TV (R$ 310,9 Mi)
 
+* Loja com maior faturamento: Casas Bahia (R$ 126 Mi)
 
-## 📚 Aprendizados
+* Maior ticket médio: Fast Shop (R$ 18 mil)**
 
-- Aplicação de boas práticas em visualização de dados
-- Uso de segmentações dinâmicas para análise personalizada
-- Integração de dados temporais, geográficos e por categoria
+🗂️ Filtros Disponíveis no Dashboard
+Para navegação e análises personalizadas:
 
----
+* Ano
 
-📌 Projeto desenvolvido por **Camila França**  
-🔗 [Meu LinkedIn](https://www.linkedin.com/in/camilaloranne/) 
+* Loja
+
+* Estado e Cidade
+
+* Produto e Modelo
+
+🌍 Destaques Geográficos
+
+Estados da região Sudeste lideraram o volume total de receita.
+
+Mapa interativo exibe a distribuição da performance por região, facilitando análises territoriais.
+
+🧠 Ferramentas e Tecnologias Utilizadas
+
+* Power BI
+
+* DAX (cálculo de medidas e análise avançada)
+
+* Visualizações interativas (barras, linhas, mapas, cartões de KPIs)
+
+📚 Aprendizados do Projeto
+
+* Aplicação de boas práticas de design em dashboards
+
+* Construção de medidas DAX para análises detalhadas
+
+* Uso de segmentações para filtros dinâmicos
+
+* Integração de dados temporais, geográficos e categóricos
+
+* Organização de dados brutos e modelagem para análise
+
+👩🏻‍💻 Autora
+
+Camila França
+Analista de Dados | Power BI | Python
+🔗 LinkedIn
