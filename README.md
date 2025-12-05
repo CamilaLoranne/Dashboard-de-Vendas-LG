@@ -14,6 +14,7 @@ Criar um dashboard dinâmico e intuitivo, capaz de responder rapidamente às pri
 * Como as vendas variam entre estados e cidades?
 
 * Qual a evolução das vendas ao longo do tempo?
+  
 
 🧩 Principais Resultados
 A análise revelou diversos insights importantes:
@@ -27,6 +28,7 @@ A análise revelou diversos insights importantes:
 * Loja com maior faturamento: Casas Bahia (R$ 126 Mi)
 
 * Maior ticket médio: Fast Shop (R$ 18 mil)**
+  
 
 🗂️ Filtros Disponíveis no Dashboard
 Para navegação e análises personalizadas:
@@ -38,12 +40,14 @@ Para navegação e análises personalizadas:
 * Estado e Cidade
 
 * Produto e Modelo
+  
 
 🌍 Destaques Geográficos
 
 Estados da região Sudeste lideraram o volume total de receita.
 
 Mapa interativo exibe a distribuição da performance por região, facilitando análises territoriais.
+
 
 🧠 Ferramentas e Tecnologias Utilizadas
 
@@ -52,6 +56,7 @@ Mapa interativo exibe a distribuição da performance por região, facilitando a
 * DAX (cálculo de medidas e análise avançada)
 
 * Visualizações interativas (barras, linhas, mapas, cartões de KPIs)
+  
 
 📚 Aprendizados do Projeto
 
@@ -64,6 +69,7 @@ Mapa interativo exibe a distribuição da performance por região, facilitando a
 * Integração de dados temporais, geográficos e categóricos
 
 * Organização de dados brutos e modelagem para análise
+  
 
 👩🏻‍💻 Autora
 
