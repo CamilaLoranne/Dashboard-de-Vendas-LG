@@ -1,10 +1,10 @@
-📊 Dashboard de Vendas – LG
+## 📊 Dashboard de Vendas – LG
 
 Análise completa de desempenho comercial utilizando Power BI
 
 Este projeto apresenta um painel interativo desenvolvido para analisar vendas da LG, permitindo identificar padrões, comparar resultados e extrair insights estratégicos de forma rápida e visual.
 
-🎯 Objetivo do Projeto
+## 🎯 Objetivo do Projeto
 Criar um dashboard dinâmico e intuitivo, capaz de responder rapidamente às principais perguntas do negócio, tais como:
 
 * Quais produtos geram maior receita?
@@ -16,7 +16,7 @@ Criar um dashboard dinâmico e intuitivo, capaz de responder rapidamente às pri
 * Qual a evolução das vendas ao longo do tempo?
   
 
-🧩 Principais Resultados
+## 🧩 Principais Resultados
 A análise revelou diversos insights importantes:
 
 * Receita total: R$ 497 milhões
@@ -30,7 +30,7 @@ A análise revelou diversos insights importantes:
 * Maior ticket médio: Fast Shop (R$ 18 mil)**
   
 
-🗂️ Filtros Disponíveis no Dashboard
+## 🗂️ Filtros Disponíveis no Dashboard
 Para navegação e análises personalizadas:
 
 * Ano
@@ -42,14 +42,14 @@ Para navegação e análises personalizadas:
 * Produto e Modelo
   
 
-🌍 Destaques Geográficos
+## 🌍 Destaques Geográficos
 
 Estados da região Sudeste lideraram o volume total de receita.
 
 Mapa interativo exibe a distribuição da performance por região, facilitando análises territoriais.
 
 
-🧠 Ferramentas e Tecnologias Utilizadas
+## 🧠 Ferramentas e Tecnologias Utilizadas
 
 * Power BI
 
@@ -58,7 +58,7 @@ Mapa interativo exibe a distribuição da performance por região, facilitando a
 * Visualizações interativas (barras, linhas, mapas, cartões de KPIs)
   
 
-📚 Aprendizados do Projeto
+## 📚 Aprendizados do Projeto
 
 * Aplicação de boas práticas de design em dashboards
 
@@ -71,8 +71,7 @@ Mapa interativo exibe a distribuição da performance por região, facilitando a
 * Organização de dados brutos e modelagem para análise
   
 
-👩🏻‍💻 Autora
-
-Camila França
-Analista de Dados | Power BI | Python
-🔗 LinkedIn
+## 👩🏻‍💻 Autora
+**Camila França**  
+Analista de Dados | Power BI | Python | SQL | Excel
+🔗 [LinkedIn](https://www.linkedin.com/in/camilaloranne/)
